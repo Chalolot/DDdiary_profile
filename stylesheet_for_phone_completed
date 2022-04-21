@@ -1,0 +1,37 @@
+@media (max-width:670px) {
+  header{
+    height: 70px;
+    width:100%;
+    position:fixed;
+    background-color: rgb(123,158,198,0.9);
+    z-index: 10;
+  }
+
+  .logo1{
+    height: 50px;
+    width: 50px;
+    padding-top: 10px;
+    padding-left: 10px;
+  }
+
+  .main-contents{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 70px;
+  }
+
+
+
+
+
+}
+
+
+
+@media (max-width:1000px) {
+
+  
+
+
+
+}
