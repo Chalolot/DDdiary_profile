@@ -1,0 +1,173 @@
+header{
+  height:100px;
+  width:100%;
+  position: fixed;
+  background-color:rgb(123,158,198,0.9);
+  z-index: 10;
+}
+
+.logo1{
+  height:100px;
+  width:100px
+}
+
+.header-right {
+  float: right;
+  display: block;
+  padding:30px;
+}
+
+.intro{
+  margin-right:30px;
+
+}
+
+.header-right a{
+  border-radius:4px;
+  padding:10px 20px;
+  margin-top: auto;
+  margin-bottom: auto;
+  color:white;
+  width:100px;
+}
+
+.youtube{
+  border: 1px solid #FF1547;
+  background-color:rgb(255, 21,71,0.6);
+}
+.youtube:hover{
+  transition:all 0.5s;
+  background-color:rgb(255, 21,71,0.8)
+}
+.twitter{
+  border: 1px solid #03A5FF;
+  background-color:rgb(3, 165,255,0.6);
+}
+.twitter:hover{
+  transition:all 0.5s;
+  background-color:rgb(3, 165,255,0.8)
+}
+.profile{
+  border:1px solid #58FF2F;
+  background-color:rgb(88, 255,47,0.6);
+}
+.profile:hover{
+  transition:all 0.5s;
+  background-color:rgb(88, 255,47,0.8)
+}
+
+
+.heaeder-left{
+float:left;
+}
+
+.first-imp{
+  padding-top:150px;
+  background-image: url(23393981_m.jpg);
+  background-size: auto;
+  opacity:0.8;
+  color:white;
+  text-align: center;
+  line-height: 150%;
+  height:400px;
+}
+.first-imp h1{
+  font-size:80px
+}
+.first-imp h2{
+  font-size:60px;
+}
+
+.first-imp span{
+  color:green;
+  font-size: 80px;
+
+
+}
+
+.second-body{
+
+}
+
+
+.face{
+  height:auto;
+  width:100%;
+}
+
+.exp{
+  font-size: 10px;
+}
+
+
+.main-contents{
+  margin-top: 0px;
+  padding-left: 25%;
+  padding-right:25%;
+  padding-bottom: 100px;
+}
+
+.content-1{
+  padding-top:120px;
+}
+
+.explain{
+  font-size: 20px;
+}
+
+.real-profile{
+
+  }
+
+.real-profile h1{
+  font-size: 100px;
+}
+
+.firstly{
+  font-size: 20px;
+}
+
+.secondly{
+  font-size: 20px;
+}
+
+.thirdly{
+  padding-top:50px;
+  font-size: 20px;
+}
+
+.forth{
+  padding-top: 40px;
+  font-size: 20px;
+}
+
+.ba{
+  text-align: center;
+  font-size: 30px;
+}
+
+.completed{
+  background-image: url(backer.jpg);
+}
+
+
+
+
+footer{
+  height:200px;
+  background-color: rgb(147,110,28,0.8);
+  padding-top: auto;
+}
+
+.bottoms{
+  padding:30px;
+}
+.bottom-left{
+  float:left;
+  font-size:40px;
+}
+
+.bottom-right{
+  float:right;
+  font-size: 40px;
+}
